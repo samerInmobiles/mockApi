@@ -1,0 +1,33 @@
+{
+    "users": [
+      { "id": 1, "name": "John Snow" ,"phoneNumber":"+92 300 1234567"},
+      { "id": 2, "name": "Test Snow" ,"phoneNumber":"+92 301 1234567"},
+      { "id": 3, "name": "John Test" ,"phoneNumber":"+92 302 1234567"},
+      { "id": 4, "name": "Test Test" ,"phoneNumber":"+92 303 1234567"},
+      { "id": 5, "name": "John Test Snow" ,"phoneNumber":"+92 304 1234567"}
+    ],
+    "avancesMont": [
+      { "id": 1, "details": "100", "days": "90" },
+      { "id": 2, "details": "250", "days": "90" },
+      { "id": 3, "details": "500", "days": "90" },
+      { "id": 4, "details": "1000", "days": "90" },
+      { "id": 5, "details": "5000", "days": "90" }
+    ],
+    "passData": [
+      { "id": 1, "details": "100", "days": "1" },
+      { "id": 2, "details": "250", "days": "1" },
+      { "id": 3, "details": "500", "days": "1" },
+      { "id": 4, "details": "1000", "days": "3" },
+      { "id": 5, "details": "5000", "days": "10" }
+    ],
+    "forfaitsAlbarka": [
+      { "id": 1, "days": "1","orgMin":"10","resMin":"0","sms":"24","mo":"30","go":"0"},
+      { "id": 2, "days": "1" ,"orgMin":"30","resMin":"5","sms":"0","mo":"30","go":"0"},
+      { "id": 3, "days": "1" ,"orgMin":"Appels illimites","resMin":"10","sms":"24","mo":"100","go":"0"},
+      { "id": 4, "days": "1" ,"orgMin":"Appels illimites","resMin":"20","sms":"20","mo":"600","go":"0"},
+      { "id": 5, "days": "1" ,"orgMin":"Appels illimites","resMin":"100","sms":"100","mo":"0","go":"3"}
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
